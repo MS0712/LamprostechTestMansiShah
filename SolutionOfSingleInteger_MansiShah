@@ -1,0 +1,26 @@
+
+  
+Number of elements in array:
+3
+2
+2
+1
+[2, 2, 1]
+Element occurring once is 1
+
+
+** Process exited - Return Code: 0 **
+
+
+Number of elements in array:
+4
+4
+1
+2
+1
+2
+[4, 1, 2, 1, 2]
+Element occurring once is 4
+
+
+** Process exited - Return Code: 0 **
